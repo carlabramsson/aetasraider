@@ -1,0 +1,451 @@
+<!--
+  ~ This file is part of AetasRaider.
+  ~
+  ~     AetasRaider is free software: you can redistribute it and/or modify
+  ~     it under the terms of the GNU General Public License as published by
+  ~     the Free Software Foundation, either version 3 of the License, or
+  ~     (at your option) any later version.
+  ~
+  ~     AetasRaider is distributed in the hope that it will be useful,
+  ~     but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~     GNU General Public License for more details.
+  ~
+  ~     You should have received a copy of the GNU General Public License
+  ~     along with AetasRaider.  If not, see <http://www.gnu.org/licenses/>.
+  -->
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+    <author>
+        <name>Blizzard Entertainment</name>
+    </author>
+    <link href="http%3A%2F%2Feu.wowarmory.com%2Fcharacter-feed.atom%3Fr%3DThe%2BVenture%2BCo%26cn%3Djarviz"
+          rel="self"></link>
+    <updated>2010-01-28T00:00:00+00:00</updated>
+    <title type="text">WoW Feed for Jarviz@The Venture Co</title>
+    <id>http://eu.wowarmory.com//</id>
+    <entry>
+        <title type="text">Has now completed [Rotface kills (Icecrown 10 player)] 2 times.</title>
+        <updated>2010-01-28T21:29:00+00:00</updated>
+        <published>2010-01-28T21:29:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[2 Rotface kills (Icecrown 10 player).]]></content>
+    </entry>
+    <entry>
+        <title type="text">Has now completed [Festergut kills (Icecrown 10 player)] 3 times.</title>
+        <updated>2010-01-28T20:42:00+00:00</updated>
+        <published>2010-01-28T20:42:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[3 Festergut kills (Icecrown 10 player).]]></content>
+    </entry>
+    <entry>
+        <title type="text">Obtained [Blade-Scored Carapace].</title>
+        <updated>2010-01-28T20:05:00+00:00</updated>
+        <published>2010-01-28T20:05:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[Obtained <a id="i=50801&amp;cn=Jarviz&amp;r=The Venture Co&amp;s=4" href=" http://eu.wowarmory.com/item-info.xml?i=50801
+"><span class="stats_rarity4">[Blade-Scored Carapace]</span></a>. <strong>(Equipped)</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Has now completed [Deathbringer kills (Icecrown 10 player)] 8 times.</title>
+        <updated>2010-01-28T20:04:00+00:00</updated>
+        <published>2010-01-28T20:04:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[8 Deathbringer kills (Icecrown 10 player).]]></content>
+    </entry>
+    <entry>
+        <title type="text">Has now completed [Gunship Battle victories (Icecrown 10 player)] 8 times.</title>
+        <updated>2010-01-28T19:53:00+00:00</updated>
+        <published>2010-01-28T19:53:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[8 Gunship Battle victories (Icecrown 10 player).]]></content>
+    </entry>
+    <entry>
+        <title type="text">Has now completed [Lady Deathwhisper kills (Icecrown 10 player)] 8 times.</title>
+        <updated>2010-01-28T19:31:00+00:00</updated>
+        <published>2010-01-28T19:31:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[8 Lady Deathwhisper kills (Icecrown 10 player).]]></content>
+    </entry>
+    <entry>
+        <title type="text">Has now completed [Lord Marrowgar kills (Icecrown 10 player)] 8 times.</title>
+        <updated>2010-01-28T19:16:00+00:00</updated>
+        <published>2010-01-28T19:16:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[8 Lord Marrowgar kills (Icecrown 10 player).]]></content>
+    </entry>
+    <entry>
+        <title type="text">Has now completed [Ingvar the Plunderer kills (Heroic Utgarde Keep)] 12 times.</title>
+        <updated>2010-01-27T18:43:00+00:00</updated>
+        <published>2010-01-27T18:43:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[12 Ingvar the Plunderer kills (Heroic Utgarde Keep).]]></content>
+    </entry>
+    <entry>
+        <title type="text">Completed step [Fish Feast] of achievement [The Northrend Gourmet].</title>
+        <updated>2010-01-26T20:23:00+00:00</updated>
+        <published>2010-01-26T20:23:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[Completed step [<strong>Fish Feast</strong>] of achievement [<a onMouseOver="setTipText('&lt;div class=\&quot;myTable\&quot; style=\&quot;\&quot;\&gt;&lt;img src=\&quot;/wow-icons/_images/51x51/inv_misc_food_138_fish.jpg\&quot; class=\&quot;ach_tooltip\&quot; /\&gt;&lt;strong style=\&quot;color: #fff;\&quot;\&gt;The Northrend Gourmet (10)&lt;/strong\&gt;&lt;br /\&gt;Cook 15 of the Northrend recipes listed below.&lt;/div\&gt;')" class="criteria staticTip" href=" http://eu.wowarmory.com//character-achievements.xml?r=The+Venture+Co&amp;cn=Jarviz&amp;alink=169:6:1777#ach1777
+">The Northrend Gourmet</a>].]]></content>
+    </entry>
+    <entry>
+        <title type="text">Has now completed [Anub&#39;arak kills (Heroic Azjol-Nerub)] 8 times.</title>
+        <updated>2010-01-26T20:06:00+00:00</updated>
+        <published>2010-01-26T20:06:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[8 Anub&#39;arak kills (Heroic Azjol-Nerub).]]></content>
+    </entry>
+    <entry>
+        <title type="text">Earned the achievement [Make It Count].</title>
+        <updated>2010-01-25T21:20:00+00:00</updated>
+        <published>2010-01-25T21:20:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[Earned the achievement <a onMouseOver="setTipText('&lt;div class=\&quot;myTable\&quot; style=\&quot;\&quot;\&gt;&lt;img src=\&quot;/wow-icons/_images/51x51/achievement_dungeon_nexus80_25man.jpg\&quot; class=\&quot;ach_tooltip\&quot; /\&gt;&lt;strong style=\&quot;color: #fff;\&quot;\&gt;Make It Count (10)&lt;/strong\&gt;&lt;br /\&gt;Defeat Ley-Guardian Eregos in The Oculus on Heroic Difficulty within 20 minutes of Drakos the Interrogator\&#39;s death.&lt;/div\&gt;')" class="achievement staticTip" href=" http://eu.wowarmory.com//character-achievements.xml?r=The+Venture+Co&amp;cn=Jarviz&amp;alink=168:5:1868#ach1868
+">Make It Count</a> for 10 points.]]></content>
+    </entry>
+    <entry>
+        <title type="text">Has now completed [Ley-Guardian Eregos kills (Heroic Oculus)] 4 times.</title>
+        <updated>2010-01-25T21:20:00+00:00</updated>
+        <published>2010-01-25T21:20:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[4 Ley-Guardian Eregos kills (Heroic Oculus).]]></content>
+    </entry>
+    <entry>
+        <title type="text">Has now completed [Deathbringer kills (Icecrown 25 player)] 4 times.</title>
+        <updated>2010-01-25T20:45:00+00:00</updated>
+        <published>2010-01-25T20:45:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[4 Deathbringer kills (Icecrown 25 player).]]></content>
+    </entry>
+    <entry>
+        <title type="text">Has now completed [Gunship Battle victories (Icecrown 25 player)] 5 times.</title>
+        <updated>2010-01-25T20:13:00+00:00</updated>
+        <published>2010-01-25T20:13:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[5 Gunship Battle victories (Icecrown 25 player).]]></content>
+    </entry>
+    <entry>
+        <title type="text">Has now completed [Lady Deathwhisper kills (Icecrown 25 player)] 5 times.</title>
+        <updated>2010-01-25T20:00:00+00:00</updated>
+        <published>2010-01-25T20:00:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[5 Lady Deathwhisper kills (Icecrown 25 player).]]></content>
+    </entry>
+    <entry>
+        <title type="text">Has now completed [Lord Marrowgar kills (Icecrown 25 player)] 6 times.</title>
+        <updated>2010-01-25T19:37:00+00:00</updated>
+        <published>2010-01-25T19:37:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[6 Lord Marrowgar kills (Icecrown 25 player).]]></content>
+    </entry>
+    <entry>
+        <title type="text">Has now completed [Noth the Plaguebringer kills (Naxxramas 10 player)] 11 times.</title>
+        <updated>2010-01-24T19:05:00+00:00</updated>
+        <published>2010-01-24T19:05:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[11 Noth the Plaguebringer kills (Naxxramas 10 player).]]></content>
+    </entry>
+    <entry>
+        <title type="text">Has now completed [King Ymiron kills (Heroic Utgarde Pinnacle)] 11 times.</title>
+        <updated>2010-01-24T18:35:00+00:00</updated>
+        <published>2010-01-24T18:35:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[11 King Ymiron kills (Heroic Utgarde Pinnacle).]]></content>
+    </entry>
+    <entry>
+        <title type="text">Obtained [Shoulderguards of Enduring Order].</title>
+        <updated>2010-01-23T18:39:00+00:00</updated>
+        <published>2010-01-23T18:39:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[Obtained <a id="i=47699&amp;cn=Jarviz&amp;r=The Venture Co&amp;s=-1" href=" http://eu.wowarmory.com/item-info.xml?i=47699
+"><span class="stats_rarity4">[Shoulderguards of Enduring Order]</span></a>.]]></content>
+    </entry>
+    <entry>
+        <title type="text">Has now completed [Loken kills (Heroic Halls of Lightning)] 6 times.</title>
+        <updated>2010-01-21T20:58:00+00:00</updated>
+        <published>2010-01-21T20:58:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[6 Loken kills (Heroic Halls of Lightning).]]></content>
+    </entry>
+    <entry>
+        <title type="text">Obtained [Whispering Fanged Skull].</title>
+        <updated>2010-01-21T19:55:00+00:00</updated>
+        <published>2010-01-21T19:55:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[Obtained <a id="i=50342&amp;cn=Jarviz&amp;r=The Venture Co&amp;s=13" href=" http://eu.wowarmory.com/item-info.xml?i=50342
+"><span class="stats_rarity4">[Whispering Fanged Skull]</span></a>. <strong>(Equipped)</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Obtained [Citadel Enforcer&#39;s Claymore].</title>
+        <updated>2010-01-21T19:35:00+00:00</updated>
+        <published>2010-01-21T19:35:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[Obtained <a id="i=50761&amp;cn=Jarviz&amp;r=The Venture Co&amp;s=15" href=" http://eu.wowarmory.com/item-info.xml?i=50761
+"><span class="stats_rarity4">[Citadel Enforcer's Claymore]</span></a>. <strong>(Equipped)</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Obtained [Ashen Band of Unmatched Courage].</title>
+        <updated>2010-01-21T19:23:00+00:00</updated>
+        <published>2010-01-21T19:23:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[Obtained <a id="i=50403&amp;cn=Jarviz&amp;r=The Venture Co&amp;s=-1" href=" http://eu.wowarmory.com/item-info.xml?i=50403
+"><span class="stats_rarity4">[Ashen Band of Unmatched Courage]</span></a>.]]></content>
+    </entry>
+    <entry>
+        <title type="text">Obtained [Blood-Soaked Saronite Stompers].</title>
+        <updated>2010-01-18T19:37:00+00:00</updated>
+        <published>2010-01-18T19:37:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[Obtained <a id="i=49983&amp;cn=Jarviz&amp;r=The Venture Co&amp;s=7" href=" http://eu.wowarmory.com/item-info.xml?i=49983
+"><span class="stats_rarity4">[Blood-Soaked Saronite Stompers]</span></a>. <strong>(Equipped)</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Has now completed [Cyanigosa kills (Heroic Violet Hold)] 9 times.</title>
+        <updated>2010-01-17T16:11:00+00:00</updated>
+        <published>2010-01-17T16:11:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[9 Cyanigosa kills (Heroic Violet Hold).]]></content>
+    </entry>
+    <entry>
+        <title type="text">Earned the achievement [A Void Dance].</title>
+        <updated>2010-01-17T16:05:00+00:00</updated>
+        <published>2010-01-17T16:05:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[Earned the achievement <a onMouseOver="setTipText('&lt;div class=\&quot;myTable\&quot; style=\&quot;\&quot;\&gt;&lt;img src=\&quot;/wow-icons/_images/51x51/inv_enchant_voidsphere.jpg\&quot; class=\&quot;ach_tooltip\&quot; /\&gt;&lt;strong style=\&quot;color: #fff;\&quot;\&gt;A Void Dance (10)&lt;/strong\&gt;&lt;br /\&gt;Defeat Zuramat the Obliterator in The Violet Hold on Heroic Difficulty without killing any void sentries.&lt;/div\&gt;')" class="achievement staticTip" href=" http://eu.wowarmory.com//character-achievements.xml?r=The+Venture+Co&amp;cn=Jarviz&amp;alink=168:5:2153#ach2153
+">A Void Dance</a> for 10 points.]]></content>
+    </entry>
+    <entry>
+        <title type="text">Completed step [Rhino Dogs] of achievement [The Northrend Gourmet].</title>
+        <updated>2010-01-17T11:50:00+00:00</updated>
+        <published>2010-01-17T11:50:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[Completed step [<strong>Rhino Dogs</strong>] of achievement [<a onMouseOver="setTipText('&lt;div class=\&quot;myTable\&quot; style=\&quot;\&quot;\&gt;&lt;img src=\&quot;/wow-icons/_images/51x51/inv_misc_food_138_fish.jpg\&quot; class=\&quot;ach_tooltip\&quot; /\&gt;&lt;strong style=\&quot;color: #fff;\&quot;\&gt;The Northrend Gourmet (10)&lt;/strong\&gt;&lt;br /\&gt;Cook 15 of the Northrend recipes listed below.&lt;/div\&gt;')" class="criteria staticTip" href=" http://eu.wowarmory.com//character-achievements.xml?r=The+Venture+Co&amp;cn=Jarviz&amp;alink=169:6:1777#ach1777
+">The Northrend Gourmet</a>].]]></content>
+    </entry>
+    <entry>
+        <title type="text">Obtained [Lightsworn Shoulderplates].</title>
+        <updated>2010-01-14T22:08:00+00:00</updated>
+        <published>2010-01-14T22:08:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[Obtained <a id="i=50324&amp;cn=Jarviz&amp;r=The Venture Co&amp;s=2" href=" http://eu.wowarmory.com/item-info.xml?i=50324
+"><span class="stats_rarity4">[Lightsworn Shoulderplates]</span></a>. <strong>(Equipped)</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Obtained [Deathspeaker Zealot&#39;s Helm].</title>
+        <updated>2010-01-14T19:16:00+00:00</updated>
+        <published>2010-01-14T19:16:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[Obtained <a id="i=50779&amp;cn=Jarviz&amp;r=The Venture Co&amp;s=0" href=" http://eu.wowarmory.com/item-info.xml?i=50779
+"><span class="stats_rarity4">[Deathspeaker Zealot's Helm]</span></a>. <strong>(Equipped)</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Has now completed [Anub&#39;Rekhan kills (Naxxramas 25 player)] 10 times.</title>
+        <updated>2010-01-13T20:17:00+00:00</updated>
+        <published>2010-01-13T20:17:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[10 Anub&#39;Rekhan kills (Naxxramas 25 player).]]></content>
+    </entry>
+    <entry>
+        <title type="text">Obtained [Deathforged Legplates].</title>
+        <updated>2010-01-12T19:50:00+00:00</updated>
+        <published>2010-01-12T19:50:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[Obtained <a id="i=50808&amp;cn=Jarviz&amp;r=The Venture Co&amp;s=-1" href=" http://eu.wowarmory.com/item-info.xml?i=50808
+"><span class="stats_rarity4">[Deathforged Legplates]</span></a>.]]></content>
+    </entry>
+    <entry>
+        <title type="text">Earned the achievement [Boned (10 player)].</title>
+        <updated>2010-01-12T19:10:00+00:00</updated>
+        <published>2010-01-12T19:10:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[Earned the achievement <a onMouseOver="setTipText('&lt;div class=\&quot;myTable\&quot; style=\&quot;\&quot;\&gt;&lt;img src=\&quot;/wow-icons/_images/51x51/achievement_boss_lordmarrowgar.jpg\&quot; class=\&quot;ach_tooltip\&quot; /\&gt;&lt;strong style=\&quot;color: #fff;\&quot;\&gt;Boned (10 player) (10)&lt;/strong\&gt;&lt;br /\&gt;Defeat Lord Marrowgar without any raid member remaining impaled for more than 8 seconds in 10-player mode.&lt;/div\&gt;')" class="achievement staticTip" href=" http://eu.wowarmory.com//character-achievements.xml?r=The+Venture+Co&amp;cn=Jarviz&amp;alink=168:5:4534#ach4534
+">Boned (10 player)</a> for 10 points.]]></content>
+    </entry>
+    <entry>
+        <title type="text">Has now completed [Marwyn kills (Heroic Halls of Reflection)] 6 times.</title>
+        <updated>2010-01-10T14:06:00+00:00</updated>
+        <published>2010-01-10T14:06:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[6 Marwyn kills (Heroic Halls of Reflection).]]></content>
+    </entry>
+    <entry>
+        <title type="text">Has now completed [Gal&#39;darah kills (Heroic Gundrak)] 9 times.</title>
+        <updated>2010-01-09T14:50:00+00:00</updated>
+        <published>2010-01-09T14:50:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[9 Gal&#39;darah kills (Heroic Gundrak).]]></content>
+    </entry>
+    <entry>
+        <title type="text">Earned the achievement [Looking For Many].</title>
+        <updated>2010-01-06T18:23:00+00:00</updated>
+        <published>2010-01-06T18:23:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[Earned the achievement <a onMouseOver="setTipText('&lt;div class=\&quot;myTable\&quot; style=\&quot;\&quot;\&gt;&lt;img src=\&quot;/wow-icons/_images/51x51/achievement_arena_3v3_4.jpg\&quot; class=\&quot;ach_tooltip\&quot; /\&gt;&lt;strong style=\&quot;color: #fff;\&quot;\&gt;Looking For Many (10)&lt;/strong\&gt;&lt;br /\&gt;Use the Dungeon tool to finish random heroic dungeons until you have grouped with 50 random players total.&lt;/div\&gt;')" class="achievement staticTip" href=" http://eu.wowarmory.com//character-achievements.xml?r=The+Venture+Co&amp;cn=Jarviz&amp;alink=168:5:4477#ach4477
+">Looking For Many</a> for 10 points.]]></content>
+    </entry>
+    <entry>
+        <title type="text">Has now completed [Keristrasza kills (Heroic Nexus)] 11 times.</title>
+        <updated>2010-01-06T18:23:00+00:00</updated>
+        <published>2010-01-06T18:23:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[11 Keristrasza kills (Heroic Nexus).]]></content>
+    </entry>
+    <entry>
+        <title type="text">Has now completed [Ignis the Furnace Master kills (Ulduar 10 player)] 17 times.</title>
+        <updated>2010-01-05T21:01:00+00:00</updated>
+        <published>2010-01-05T21:01:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[17 Ignis the Furnace Master kills (Ulduar 10 player).]]></content>
+    </entry>
+    <entry>
+        <title type="text">Has now completed [Flame Leviathan kills (Ulduar 10 player)] 21 times.</title>
+        <updated>2010-01-05T20:46:00+00:00</updated>
+        <published>2010-01-05T20:46:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[21 Flame Leviathan kills (Ulduar 10 player).]]></content>
+    </entry>
+    <entry>
+        <title type="text">Obtained [Rimefang&#39;s Claw].</title>
+        <updated>2010-01-05T15:31:00+00:00</updated>
+        <published>2010-01-05T15:31:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[Obtained <a id="i=50268&amp;cn=Jarviz&amp;r=The Venture Co&amp;s=-1" href=" http://eu.wowarmory.com/item-info.xml?i=50268
+"><span class="stats_rarity4">[Rimefang's Claw]</span></a>.]]></content>
+    </entry>
+    <entry>
+        <title type="text">Has now completed [Scourgelord Tyrannus kills (Heroic Pit of Saron)] 6 times.</title>
+        <updated>2010-01-05T15:29:00+00:00</updated>
+        <published>2010-01-05T15:29:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[6 Scourgelord Tyrannus kills (Heroic Pit of Saron).]]></content>
+    </entry>
+    <entry>
+        <title type="text">Earned the achievement [Don&#39;t Look Up].</title>
+        <updated>2010-01-05T15:23:00+00:00</updated>
+        <published>2010-01-05T15:23:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[Earned the achievement <a onMouseOver="setTipText('&lt;div class=\&quot;myTable\&quot; style=\&quot;\&quot;\&gt;&lt;img src=\&quot;/wow-icons/_images/51x51/achievement_boss_scourgelordtyrannus.jpg\&quot; class=\&quot;ach_tooltip\&quot; /\&gt;&lt;strong style=\&quot;color: #fff;\&quot;\&gt;Don\&#39;t Look Up (10)&lt;/strong\&gt;&lt;br /\&gt;Clear the hallway before Scourgelord Tyrannus in The Pit of Saron on Heroic Difficulty without anyone taking icicle damage on the first try.&lt;/div\&gt;')" class="achievement staticTip" href=" http://eu.wowarmory.com//character-achievements.xml?r=The+Venture+Co&amp;cn=Jarviz&amp;alink=168:5:4525#ach4525
+">Don&#39;t Look Up</a> for 10 points.]]></content>
+    </entry>
+    <entry>
+        <title type="text">Has now completed [Ick and Krick kills (Heroic Pit of Saron)] 6 times.</title>
+        <updated>2010-01-05T15:14:00+00:00</updated>
+        <published>2010-01-05T15:14:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[6 Ick and Krick kills (Heroic Pit of Saron).]]></content>
+    </entry>
+    <entry>
+        <title type="text">Has now completed [Forgemaster Garfrost kills (Heroic Pit of Saron)] 6 times.</title>
+        <updated>2010-01-05T15:07:00+00:00</updated>
+        <published>2010-01-05T15:07:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[6 Forgemaster Garfrost kills (Heroic Pit of Saron).]]></content>
+    </entry>
+    <entry>
+        <title type="text">Has now completed [Devourer of Souls kills (Heroic Forge of Souls)] 6 times.</title>
+        <updated>2010-01-05T14:51:00+00:00</updated>
+        <published>2010-01-05T14:51:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[6 Devourer of Souls kills (Heroic Forge of Souls).]]></content>
+    </entry>
+    <entry>
+        <title type="text">Has now completed [Bronjahm kills (Heroic Forge of Souls)] 6 times.</title>
+        <updated>2010-01-05T14:45:00+00:00</updated>
+        <published>2010-01-05T14:45:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[6 Bronjahm kills (Heroic Forge of Souls).]]></content>
+    </entry>
+    <entry>
+        <title type="text">Earned the achievement [Storming the Citadel (25 player)].</title>
+        <updated>2010-01-04T20:32:00+00:00</updated>
+        <published>2010-01-04T20:32:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[Earned the achievement <a onMouseOver="setTipText('&lt;div class=\&quot;myTable\&quot; style=\&quot;\&quot;\&gt;&lt;img src=\&quot;/wow-icons/_images/51x51/achievement_dungeon_icecrown_icecrownentrance.jpg\&quot; class=\&quot;ach_tooltip\&quot; /\&gt;&lt;strong style=\&quot;color: #fff;\&quot;\&gt;Storming the Citadel (25 player) (10)&lt;/strong\&gt;&lt;br /\&gt;Defeat the first four bosses in Icecrown Citadel in 25-player mode.&lt;/div\&gt;')" class="achievement staticTip" href=" http://eu.wowarmory.com//character-achievements.xml?r=The+Venture+Co&amp;cn=Jarviz&amp;alink=168:5:4604#ach4604
+">Storming the Citadel (25 player)</a> for 10 points.]]></content>
+    </entry>
+    <entry>
+        <title type="text">Earned the achievement [The Empire of Zul&#39;Drak].</title>
+        <updated>2010-01-03T21:09:00+00:00</updated>
+        <published>2010-01-03T21:09:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[Earned the achievement <a onMouseOver="setTipText('&lt;div class=\&quot;myTable\&quot; style=\&quot;\&quot;\&gt;&lt;img src=\&quot;/wow-icons/_images/51x51/achievement_zone_zuldrak_07.jpg\&quot; class=\&quot;ach_tooltip\&quot; /\&gt;&lt;strong style=\&quot;color: #fff;\&quot;\&gt;The Empire of Zul\&#39;Drak (10)&lt;/strong\&gt;&lt;br /\&gt;Complete 100 quests in Zul\&#39;Drak.&lt;/div\&gt;')" class="achievement staticTip" href=" http://eu.wowarmory.com//character-achievements.xml?r=The+Venture+Co&amp;cn=Jarviz&amp;alink=96:2:36#ach36
+">The Empire of Zul&#39;Drak</a> for 10 points.]]></content>
+    </entry>
+    <entry>
+        <title type="text">Earned the achievement [Loremaster of Northrend].</title>
+        <updated>2010-01-03T21:09:00+00:00</updated>
+        <published>2010-01-03T21:09:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[Earned the achievement <a onMouseOver="setTipText('&lt;div class=\&quot;myTable\&quot; style=\&quot;\&quot;\&gt;&lt;img src=\&quot;/wow-icons/_images/51x51/achievement_zone_northrend_01.jpg\&quot; class=\&quot;ach_tooltip\&quot; /\&gt;&lt;strong style=\&quot;color: #fff;\&quot;\&gt;Loremaster of Northrend (10)&lt;/strong\&gt;&lt;br /\&gt;Complete the Northrend quest achievements listed below.&lt;/div\&gt;')" class="achievement staticTip" href=" http://eu.wowarmory.com//character-achievements.xml?r=The+Venture+Co&amp;cn=Jarviz&amp;alink=96:2:1360#ach1360
+">Loremaster of Northrend</a> for 10 points.]]></content>
+    </entry>
+    <entry>
+        <title type="text">Completed step [Arctic Hare] of achievement [To All The Squirrels Who Shared My Life].
+        </title>
+        <updated>2010-01-03T19:58:00+00:00</updated>
+        <published>2010-01-03T19:58:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[Completed step [<strong>Arctic Hare</strong>] of achievement [<a onMouseOver="setTipText('&lt;div class=\&quot;myTable\&quot; style=\&quot;\&quot;\&gt;&lt;img src=\&quot;/wow-icons/_images/51x51/inv_jewelcrafting_crimsonhare.jpg\&quot; class=\&quot;ach_tooltip\&quot; /\&gt;&lt;strong style=\&quot;color: #fff;\&quot;\&gt;To All The Squirrels Who Shared My Life (10)&lt;/strong\&gt;&lt;br /\&gt;Show more critters of Azeroth how much you /love them.&lt;/div\&gt;')" class="criteria staticTip" href=" http://eu.wowarmory.com//character-achievements.xml?r=The+Venture+Co&amp;cn=Jarviz&amp;alink=92:1:2557#ach2557
+">To All The Squirrels Who Shared My Life</a>].]]></content>
+    </entry>
+    <entry>
+        <title type="text">Has now completed [The Prophet Tharon&#39;ja kills (Heroic Drak&#39;Tharon Keep)] 6 times.
+        </title>
+        <updated>2010-01-03T18:42:00+00:00</updated>
+        <published>2010-01-03T18:42:00+00:00</published>
+        <id>http://eu.wowarmory.com/</id>
+        <link>http://eu.wowarmory.com/character-feed.xmlr=The+Venture+Co&amp;cn=Jarviz</link>
+        <content type="html"><![CDATA[6 The Prophet Tharon&#39;ja kills (Heroic Drak&#39;Tharon Keep).]]></content>
+    </entry>
+
+</feed>

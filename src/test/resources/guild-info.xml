@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/_layout/guild/roster.xsl"?>
+<!--
+  ~ This file is part of AetasRaider.
+  ~
+  ~     AetasRaider is free software: you can redistribute it and/or modify
+  ~     it under the terms of the GNU General Public License as published by
+  ~     the Free Software Foundation, either version 3 of the License, or
+  ~     (at your option) any later version.
+  ~
+  ~     AetasRaider is distributed in the hope that it will be useful,
+  ~     but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~     GNU General Public License for more details.
+  ~
+  ~     You should have received a copy of the GNU General Public License
+  ~     along with AetasRaider.  If not, see <http://www.gnu.org/licenses/>.
+  -->
+
+<page globalSearch="1" lang="en_gb" requestUrl="/guild-info.xml">
+    <tabInfo subTab="guildRoster" tab="guild" tabGroup="guild" tabUrl="r=The+Venture+Co&amp;gn=Mayhem"/>
+    <guildInfo>
+        <guildHeader battleGroup="Rampage / Saccage" count="139" faction="1" name="Mayhem" nameUrl="Mayhem"
+                     realm="The Venture Co" realmUrl="The+Venture+Co" url="r=The+Venture+Co&amp;gn=Mayhem">
+            <emblem emblemBackground="45" emblemBorderColor="13" emblemBorderStyle="3" emblemIconColor="13"
+                    emblemIconStyle="12"/>
+        </guildHeader>
+        <guild>
+            <members memberCount="139">
+                <character achPoints="1765" classId="4" genderId="0" level="80" name="Shonzo" raceId="2" rank="2"
+                           url="r=The+Venture+Co&amp;cn=Shonzo"/>
+
+                <character achPoints="270" classId="4" genderId="1" level="51" name="Theodora" raceId="10" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Theodora"/>
+                <character achPoints="1765" classId="6" genderId="0" level="80" name="Raahl" raceId="8" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Raahl"/>
+                <character achPoints="1615" classId="1" genderId="1" level="78" name="Ilsa" raceId="2" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Ilsa"/>
+                <character achPoints="1750" classId="11" genderId="1" level="80" name="Hélkpö" raceId="6" rank="5"
+                           url="r=The+Venture+Co&amp;cn=H%C3%A9lkp%C3%B6"/>
+                <character achPoints="4120" classId="4" genderId="0" level="80" name="Zneaker" raceId="8" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Zneaker"/>
+                <character achPoints="100" classId="2" genderId="0" level="80" name="Gimph" raceId="10" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Gimph"/>
+                <character achPoints="1710" classId="5" genderId="0" level="80" name="Norgasch" raceId="5" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Norgasch"/>
+                <character achPoints="2555" classId="2" genderId="1" level="80" name="Rache" raceId="10" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Rache"/>
+                <character achPoints="2950" classId="2" genderId="1" level="80" name="Daniela" raceId="10" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Daniela"/>
+
+                <character achPoints="6095" classId="6" genderId="0" level="80" name="Doeden" raceId="5" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Doeden"/>
+                <character achPoints="530" classId="9" genderId="1" level="63" name="Vuwen" raceId="10" rank="6"
+                           url="r=The+Venture+Co&amp;cn=Vuwen"/>
+                <character achPoints="360" classId="11" genderId="1" level="45" name="Meüeri" raceId="6" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Me%C3%BCeri"/>
+                <character achPoints="600" classId="5" genderId="1" level="71" name="Mela" raceId="5" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Mela"/>
+                <character achPoints="1695" classId="3" genderId="0" level="80" name="Slinger" raceId="2" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Slinger"/>
+                <character achPoints="230" classId="9" genderId="0" level="30" name="Somes" raceId="5" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Somes"/>
+                <character achPoints="1550" classId="6" genderId="0" level="80" name="Sturk" raceId="8" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Sturk"/>
+                <character achPoints="760" classId="7" genderId="0" level="74" name="Eron" raceId="2" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Eron"/>
+                <character achPoints="5950" classId="2" genderId="1" level="80" name="Ororó" raceId="10" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Oror%C3%B3"/>
+
+                <character achPoints="2665" classId="2" genderId="0" level="80" name="Zaeleth" raceId="10" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Zaeleth"/>
+                <character achPoints="1370" classId="11" genderId="0" level="80" name="Donrer" raceId="6" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Donrer"/>
+                <character achPoints="4270" classId="2" genderId="0" level="80" name="Thwor" raceId="10" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Thwor"/>
+                <character achPoints="5015" classId="5" genderId="1" level="80" name="Isabelf" raceId="10" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Isabelf"/>
+                <character achPoints="3840" classId="4" genderId="0" level="80" name="Cisum" raceId="8" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Cisum"/>
+                <character achPoints="4155" classId="11" genderId="1" level="80" name="Hjertrude" raceId="6" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Hjertrude"/>
+                <character achPoints="3295" classId="2" genderId="0" level="80" name="Thad" raceId="10" rank="2"
+                           url="r=The+Venture+Co&amp;cn=Thad"/>
+                <character achPoints="540" classId="9" genderId="0" level="80" name="Flat" raceId="2" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Flat"/>
+                <character achPoints="1030" classId="5" genderId="0" level="80" name="Rhayader" raceId="8" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Rhayader"/>
+
+                <character achPoints="620" classId="11" genderId="1" level="75" name="Cela" raceId="6" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Cela"/>
+                <character achPoints="3355" classId="1" genderId="0" level="80" name="Dödgrävaren" raceId="5" rank="4"
+                           url="r=The+Venture+Co&amp;cn=D%C3%B6dgr%C3%A4varen"/>
+                <character achPoints="1010" classId="4" genderId="0" level="80" name="Teknovikíng" raceId="5" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Teknovik%C3%ADng"/>
+                <character achPoints="200" classId="2" genderId="1" level="23" name="Avantasía" raceId="10" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Avantas%C3%ADa"/>
+                <character achPoints="865" classId="8" genderId="1" level="80" name="Alûnadono" raceId="5" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Al%C3%BBnadono"/>
+                <character achPoints="230" classId="5" genderId="1" level="31" name="Phearia" raceId="5" rank="2"
+                           url="r=The+Venture+Co&amp;cn=Phearia"/>
+                <character achPoints="2805" classId="1" genderId="0" level="80" name="Lillkloss" raceId="6" rank="1"
+                           url="r=The+Venture+Co&amp;cn=Lillkloss"/>
+                <character achPoints="1590" classId="9" genderId="1" level="80" name="Ellips" raceId="5" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Ellips"/>
+                <character achPoints="1760" classId="8" genderId="0" level="80" name="Trisk" raceId="5" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Trisk"/>
+
+                <character achPoints="2350" classId="8" genderId="1" level="80" name="Wyla" raceId="10" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Wyla"/>
+                <character achPoints="700" classId="1" genderId="0" level="71" name="Beethoofen" raceId="6" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Beethoofen"/>
+                <character achPoints="2725" classId="7" genderId="0" level="80" name="Bidash" raceId="2" rank="6"
+                           url="r=The+Venture+Co&amp;cn=Bidash"/>
+                <character achPoints="2200" classId="8" genderId="1" level="80" name="Jailindara" raceId="10" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Jailindara"/>
+                <character achPoints="1550" classId="5" genderId="1" level="80" name="Zarga" raceId="8" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Zarga"/>
+                <character achPoints="1170" classId="4" genderId="1" level="72" name="Paladinia" raceId="2" rank="2"
+                           url="r=The+Venture+Co&amp;cn=Paladinia"/>
+                <character achPoints="5005" classId="9" genderId="1" level="80" name="Eisley" raceId="10" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Eisley"/>
+                <character achPoints="300" classId="11" genderId="0" level="80" name="Ekoxen" raceId="6" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Ekoxen"/>
+                <character achPoints="2725" classId="5" genderId="0" level="80" name="Longmaze" raceId="5" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Longmaze"/>
+
+                <character achPoints="2625" classId="9" genderId="0" level="80" name="Pyrox" raceId="5" rank="2"
+                           url="r=The+Venture+Co&amp;cn=Pyrox"/>
+                <character achPoints="2730" classId="5" genderId="1" level="80" name="Mokthara" raceId="8" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Mokthara"/>
+                <character achPoints="240" classId="2" genderId="0" level="48" name="Coster" raceId="10" rank="6"
+                           url="r=The+Venture+Co&amp;cn=Coster"/>
+                <character achPoints="2260" classId="9" genderId="0" level="80" name="Corth" raceId="5" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Corth"/>
+                <character achPoints="2965" classId="5" genderId="1" level="80" name="Tildra" raceId="5" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Tildra"/>
+                <character achPoints="1890" classId="1" genderId="0" level="80" name="Hellron" raceId="6" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Hellron"/>
+                <character achPoints="1360" classId="9" genderId="0" level="80" name="Carlien" raceId="10" rank="2"
+                           url="r=The+Venture+Co&amp;cn=Carlien"/>
+                <character achPoints="2480" classId="11" genderId="0" level="80" name="Mareshanu" raceId="6" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Mareshanu"/>
+                <character achPoints="280" classId="6" genderId="0" level="76" name="Bödeln" raceId="6" rank="5"
+                           url="r=The+Venture+Co&amp;cn=B%C3%B6deln"/>
+
+                <character achPoints="1835" classId="1" genderId="0" level="80" name="Vorax" raceId="6" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Vorax"/>
+                <character achPoints="4125" classId="11" genderId="1" level="80" name="Gosgos" raceId="6" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Gosgos"/>
+                <character achPoints="3480" classId="7" genderId="0" level="80" name="Zamsam" raceId="8" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Zamsam"/>
+                <character achPoints="920" classId="11" genderId="1" level="80" name="Elsinore" raceId="6" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Elsinore"/>
+                <character achPoints="270" classId="1" genderId="0" level="80" name="Zoddom" raceId="2" rank="6"
+                           url="r=The+Venture+Co&amp;cn=Zoddom"/>
+                <character achPoints="2510" classId="5" genderId="0" level="80" name="Zoltane" raceId="10" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Zoltane"/>
+                <character achPoints="2505" classId="1" genderId="0" level="80" name="Krigh" raceId="2" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Krigh"/>
+                <character achPoints="3375" classId="5" genderId="1" level="80" name="Yzandria" raceId="10" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Yzandria"/>
+                <character achPoints="1990" classId="7" genderId="0" level="80" name="Ingus" raceId="6" rank="2"
+                           url="r=The+Venture+Co&amp;cn=Ingus"/>
+
+                <character achPoints="1960" classId="9" genderId="1" level="80" name="Arawna" raceId="10" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Arawna"/>
+                <character achPoints="2445" classId="2" genderId="1" level="80" name="Tösen" raceId="10" rank="5"
+                           url="r=The+Venture+Co&amp;cn=T%C3%B6sen"/>
+                <character achPoints="0" classId="6" genderId="0" level="69" name="Salon" raceId="6" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Salon"/>
+                <character achPoints="2675" classId="6" genderId="0" level="80" name="Vaal" raceId="2" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Vaal"/>
+                <character achPoints="2495" classId="5" genderId="0" level="80" name="Cranemount" raceId="10" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Cranemount"/>
+                <character achPoints="3735" classId="7" genderId="0" level="80" name="Forus" raceId="2" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Forus"/>
+                <character achPoints="3330" classId="11" genderId="0" level="80" name="Eriman" raceId="6" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Eriman"/>
+                <character achPoints="0" classId="9" genderId="0" level="80" name="Tharoon" raceId="2" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Tharoon"/>
+                <character achPoints="1740" classId="8" genderId="0" level="80" name="Grimgroth" raceId="10" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Grimgroth"/>
+
+                <character achPoints="1410" classId="7" genderId="0" level="80" name="Xipetotek" raceId="6" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Xipetotek"/>
+                <character achPoints="1080" classId="8" genderId="1" level="80" name="Kimballica" raceId="10" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Kimballica"/>
+                <character achPoints="7055" classId="6" genderId="0" level="80" name="Gemet" raceId="2" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Gemet"/>
+                <character achPoints="2190" classId="2" genderId="1" level="80" name="Asmavet" raceId="10" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Asmavet"/>
+                <character achPoints="1855" classId="11" genderId="0" level="80" name="Silentmjau" raceId="6" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Silentmjau"/>
+                <character achPoints="3405" classId="7" genderId="0" level="80" name="Zhorhn" raceId="2" rank="1"
+                           url="r=The+Venture+Co&amp;cn=Zhorhn"/>
+                <character achPoints="975" classId="8" genderId="1" level="80" name="Leethal" raceId="10" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Leethal"/>
+                <character achPoints="2465" classId="4" genderId="1" level="80" name="Jables" raceId="8" rank="6"
+                           url="r=The+Venture+Co&amp;cn=Jables"/>
+                <character achPoints="240" classId="11" genderId="1" level="47" name="Nanda" raceId="6" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Nanda"/>
+
+                <character achPoints="2155" classId="6" genderId="0" level="80" name="Thab" raceId="10" rank="2"
+                           url="r=The+Venture+Co&amp;cn=Thab"/>
+                <character achPoints="580" classId="2" genderId="1" level="75" name="Ewani" raceId="10" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Ewani"/>
+                <character achPoints="210" classId="11" genderId="0" level="41" name="Arkanoíd" raceId="6" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Arkano%C3%ADd"/>
+                <character achPoints="300" classId="11" genderId="1" level="47" name="Bjärvina" raceId="6" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Bj%C3%A4rvina"/>
+                <character achPoints="640" classId="3" genderId="1" level="73" name="Dûglah" raceId="10" rank="5"
+                           url="r=The+Venture+Co&amp;cn=D%C3%BBglah"/>
+                <character achPoints="3765" classId="2" genderId="0" level="80" name="Swezoo" raceId="10" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Swezoo"/>
+                <character achPoints="880" classId="1" genderId="0" level="80" name="Sifear" raceId="6" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Sifear"/>
+                <character achPoints="2930" classId="8" genderId="1" level="80" name="Skinny" raceId="5" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Skinny"/>
+                <character achPoints="430" classId="11" genderId="1" level="80" name="Lixuria" raceId="6" rank="6"
+                           url="r=The+Venture+Co&amp;cn=Lixuria"/>
+
+                <character achPoints="3025" classId="11" genderId="0" level="80" name="Erth" raceId="6" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Erth"/>
+                <character achPoints="3495" classId="5" genderId="1" level="80" name="Zinn" raceId="5" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Zinn"/>
+                <character achPoints="980" classId="2" genderId="1" level="80" name="Flatina" raceId="10" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Flatina"/>
+                <character achPoints="1710" classId="2" genderId="0" level="80" name="Riond" raceId="10" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Riond"/>
+                <character achPoints="1740" classId="5" genderId="0" level="80" name="Myto" raceId="8" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Myto"/>
+                <character achPoints="0" classId="8" genderId="0" level="44" name="Carrion" raceId="5" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Carrion"/>
+                <character achPoints="20" classId="3" genderId="1" level="80" name="Raziela" raceId="2" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Raziela"/>
+                <character achPoints="1405" classId="11" genderId="0" level="80" name="Morco" raceId="6" rank="2"
+                           url="r=The+Venture+Co&amp;cn=Morco"/>
+                <character achPoints="1420" classId="1" genderId="0" level="80" name="Clintan" raceId="2" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Clintan"/>
+
+                <character achPoints="1625" classId="1" genderId="0" level="80" name="Weebull" raceId="6" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Weebull"/>
+                <character achPoints="1265" classId="3" genderId="0" level="80" name="Brodertuck" raceId="6" rank="1"
+                           url="r=The+Venture+Co&amp;cn=Brodertuck"/>
+                <character achPoints="5715" classId="4" genderId="0" level="80" name="Zlayer" raceId="5" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Zlayer"/>
+                <character achPoints="1705" classId="8" genderId="0" level="80" name="Dermordian" raceId="5" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Dermordian"/>
+                <character achPoints="2855" classId="3" genderId="0" level="80" name="Snodden" raceId="8" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Snodden"/>
+                <character achPoints="3025" classId="1" genderId="0" level="80" name="Nev" raceId="2" rank="1"
+                           url="r=The+Venture+Co&amp;cn=Nev"/>
+                <character achPoints="2135" classId="1" genderId="1" level="80" name="Aaeînadono" raceId="5" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Aae%C3%AEnadono"/>
+                <character achPoints="1965" classId="6" genderId="0" level="80" name="Phant" raceId="10" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Phant"/>
+                <character achPoints="2105" classId="5" genderId="0" level="80" name="Beelzboss" raceId="5" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Beelzboss"/>
+
+                <character achPoints="2930" classId="8" genderId="0" level="80" name="Spöket" raceId="10" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Sp%C3%B6ket"/>
+                <character achPoints="70" classId="5" genderId="1" level="80" name="Imogens" raceId="10" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Imogens"/>
+                <character achPoints="1105" classId="4" genderId="0" level="80" name="Niiven" raceId="8" rank="2"
+                           url="r=The+Venture+Co&amp;cn=Niiven"/>
+                <character achPoints="2040" classId="4" genderId="0" level="80" name="Dizzydean" raceId="10" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Dizzydean"/>
+                <character achPoints="4630" classId="2" genderId="0" level="80" name="Jarviz" raceId="10" rank="1"
+                           url="r=The+Venture+Co&amp;cn=Jarviz"/>
+                <character achPoints="210" classId="8" genderId="0" level="37" name="Oss" raceId="10" rank="6"
+                           url="r=The+Venture+Co&amp;cn=Oss"/>
+                <character achPoints="350" classId="7" genderId="1" level="80" name="Vidja" raceId="2" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Vidja"/>
+                <character achPoints="1160" classId="6" genderId="0" level="80" name="Dermordien" raceId="2" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Dermordien"/>
+                <character achPoints="7640" classId="11" genderId="0" level="80" name="Eldhorn" raceId="6" rank="1"
+                           url="r=The+Venture+Co&amp;cn=Eldhorn"/>
+
+                <character achPoints="470" classId="1" genderId="1" level="63" name="Eremeli" raceId="5" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Eremeli"/>
+                <character achPoints="3060" classId="5" genderId="1" level="80" name="Luma" raceId="5" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Luma"/>
+                <character achPoints="1140" classId="9" genderId="0" level="80" name="Gharr" raceId="2" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Gharr"/>
+                <character achPoints="3275" classId="1" genderId="0" level="80" name="Uggluk" raceId="8" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Uggluk"/>
+                <character achPoints="690" classId="6" genderId="1" level="80" name="Coventina" raceId="10" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Coventina"/>
+                <character achPoints="1675" classId="8" genderId="0" level="80" name="Whiteadder" raceId="5" rank="2"
+                           url="r=The+Venture+Co&amp;cn=Whiteadder"/>
+                <character achPoints="2985" classId="4" genderId="1" level="80" name="Yazzah" raceId="2" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Yazzah"/>
+                <character achPoints="2065" classId="1" genderId="0" level="80" name="Hawkmeadow" raceId="6" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Hawkmeadow"/>
+                <character achPoints="1755" classId="9" genderId="0" level="80" name="Zindor" raceId="10" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Zindor"/>
+
+                <character achPoints="120" classId="6" genderId="0" level="73" name="Ahab" raceId="10" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Ahab"/>
+                <character achPoints="3170" classId="8" genderId="0" level="80" name="Datsyuk" raceId="5" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Datsyuk"/>
+                <character achPoints="840" classId="6" genderId="0" level="80" name="Gromshak" raceId="2" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Gromshak"/>
+                <character achPoints="1530" classId="3" genderId="1" level="80" name="Tuffsan" raceId="6" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Tuffsan"/>
+                <character achPoints="50" classId="8" genderId="0" level="13" name="Aleanathem" raceId="10" rank="6"
+                           url="r=The+Venture+Co&amp;cn=Aleanathem"/>
+                <character achPoints="750" classId="8" genderId="0" level="71" name="Evl" raceId="5" rank="2"
+                           url="r=The+Venture+Co&amp;cn=Evl"/>
+                <character achPoints="2410" classId="3" genderId="0" level="80" name="Thag" raceId="2" rank="2"
+                           url="r=The+Venture+Co&amp;cn=Thag"/>
+                <character achPoints="970" classId="4" genderId="0" level="80" name="Fjant" raceId="8" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Fjant"/>
+                <character achPoints="120" classId="9" genderId="0" level="80" name="Alûndîrsama" raceId="5" rank="5"
+                           url="r=The+Venture+Co&amp;cn=Al%C3%BBnd%C3%AErsama"/>
+
+                <character achPoints="2985" classId="3" genderId="0" level="80" name="Gathor" raceId="6" rank="4"
+                           url="r=The+Venture+Co&amp;cn=Gathor"/>
+                <character achPoints="3040" classId="11" genderId="1" level="80" name="Lunula" raceId="6" rank="0"
+                           url="r=The+Venture+Co&amp;cn=Lunula"/>
+                <character achPoints="910" classId="2" genderId="1" level="80" name="Hippolyte" raceId="10" rank="6"
+                           url="r=The+Venture+Co&amp;cn=Hippolyte"/>
+            </members>
+        </guild>
+    </guildInfo>
+</page>

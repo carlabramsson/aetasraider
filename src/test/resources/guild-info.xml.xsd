@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ This file is part of AetasRaider.
+  ~
+  ~     AetasRaider is free software: you can redistribute it and/or modify
+  ~     it under the terms of the GNU General Public License as published by
+  ~     the Free Software Foundation, either version 3 of the License, or
+  ~     (at your option) any later version.
+  ~
+  ~     AetasRaider is distributed in the hope that it will be useful,
+  ~     but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~     GNU General Public License for more details.
+  ~
+  ~     You should have received a copy of the GNU General Public License
+  ~     along with AetasRaider.  If not, see <http://www.gnu.org/licenses/>.
+  -->
+
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="page" type="pageType"/>
+    <xs:complexType name="pageType">
+        <xs:sequence>
+            <xs:element type="tabInfoType" name="tabInfo"/>
+            <xs:element type="guildInfoType" name="guildInfo"/>
+        </xs:sequence>
+        <xs:attribute type="xs:string" name="globalSearch"/>
+        <xs:attribute type="xs:string" name="lang"/>
+        <xs:attribute type="xs:string" name="requestUrl"/>
+    </xs:complexType>
+    <xs:complexType name="membersType">
+        <xs:sequence>
+            <xs:element type="characterType" name="character" maxOccurs="unbounded" minOccurs="0"/>
+        </xs:sequence>
+        <xs:attribute type="xs:string" name="memberCount"/>
+    </xs:complexType>
+    <xs:complexType name="emblemType">
+        <xs:simpleContent>
+            <xs:extension base="xs:string">
+                <xs:attribute type="xs:string" name="emblemBackground"/>
+                <xs:attribute type="xs:string" name="emblemBorderColor"/>
+                <xs:attribute type="xs:string" name="emblemBorderStyle"/>
+                <xs:attribute type="xs:string" name="emblemIconColor"/>
+                <xs:attribute type="xs:string" name="emblemIconStyle"/>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+    <xs:complexType name="guildHeaderType">
+        <xs:sequence>
+            <xs:element type="emblemType" name="emblem"/>
+        </xs:sequence>
+        <xs:attribute type="xs:string" name="battleGroup"/>
+        <xs:attribute type="xs:string" name="count"/>
+        <xs:attribute type="xs:string" name="faction"/>
+        <xs:attribute type="xs:string" name="name"/>
+        <xs:attribute type="xs:string" name="nameUrl"/>
+        <xs:attribute type="xs:string" name="realm"/>
+        <xs:attribute type="xs:string" name="realmUrl"/>
+        <xs:attribute type="xs:string" name="url"/>
+    </xs:complexType>
+    <xs:complexType name="tabInfoType">
+        <xs:simpleContent>
+            <xs:extension base="xs:string">
+                <xs:attribute type="xs:string" name="subTab"/>
+                <xs:attribute type="xs:string" name="tab"/>
+                <xs:attribute type="xs:string" name="tabGroup"/>
+                <xs:attribute type="xs:string" name="tabUrl"/>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+    <xs:complexType name="guildInfoType">
+        <xs:sequence>
+            <xs:element type="guildHeaderType" name="guildHeader"/>
+            <xs:element type="guildType" name="guild"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="guildType">
+        <xs:sequence>
+            <xs:element type="membersType" name="members"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="characterType">
+        <xs:simpleContent>
+            <xs:extension base="xs:string">
+                <xs:attribute type="xs:string" name="achPoints" use="optional"/>
+                <xs:attribute type="xs:string" name="classId" use="optional"/>
+                <xs:attribute type="xs:string" name="genderId" use="optional"/>
+                <xs:attribute type="xs:string" name="level" use="optional"/>
+                <xs:attribute type="xs:string" name="name" use="optional"/>
+                <xs:attribute type="xs:string" name="raceId" use="optional"/>
+                <xs:attribute type="xs:string" name="rank" use="optional"/>
+                <xs:attribute type="xs:string" name="url" use="optional"/>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+</xs:schema>

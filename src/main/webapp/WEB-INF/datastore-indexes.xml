@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ This file is part of AetasRaider.
+  ~
+  ~     AetasRaider is free software: you can redistribute it and/or modify
+  ~     it under the terms of the GNU General Public License as published by
+  ~     the Free Software Foundation, either version 3 of the License, or
+  ~     (at your option) any later version.
+  ~
+  ~     AetasRaider is distributed in the hope that it will be useful,
+  ~     but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~     GNU General Public License for more details.
+  ~
+  ~     You should have received a copy of the GNU General Public License
+  ~     along with AetasRaider.  If not, see <http://www.gnu.org/licenses/>.
+  -->
+
+<datastore-indexes
+        autoGenerate="true">
+    <datastore-index kind="CharacterLootActivity" ancestor="false" source="manual">
+        <property name="wowCharacterId" direction="asc"/>
+        <property name="date" direction="desc"/>
+    </datastore-index>
+    <datastore-index kind="CharacterAchiActivity" ancestor="false" source="manual">
+        <property name="wowCharacterId" direction="asc"/>
+        <property name="date" direction="desc"/>
+    </datastore-index>
+    <datastore-index kind="CharacterAchiStepActivity" ancestor="false" source="manual">
+        <property name="wowCharacterId" direction="asc"/>
+        <property name="date" direction="desc"/>
+    </datastore-index>
+    <datastore-index kind="CharacterBossKillActivity" ancestor="false" source="manual">
+        <property name="wowCharacterId" direction="asc"/>
+        <property name="date" direction="desc"/>
+    </datastore-index>
+    <datastore-index kind="CharacterInstanceClearedActivity" ancestor="false" source="manual">
+        <property name="wowCharacterId" direction="asc"/>
+        <property name="date" direction="desc"/>
+    </datastore-index>
+    <datastore-index kind="UnknownCharacterActivity" ancestor="false" source="manual">
+        <property name="wowCharacterId" direction="asc"/>
+        <property name="date" direction="desc"/>
+    </datastore-index>
+</datastore-indexes>

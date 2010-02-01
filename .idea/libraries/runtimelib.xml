@@ -1,0 +1,66 @@
+<!--
+  ~ This file is part of AetasRaider.
+  ~
+  ~     AetasRaider is free software: you can redistribute it and/or modify
+  ~     it under the terms of the GNU General Public License as published by
+  ~     the Free Software Foundation, either version 3 of the License, or
+  ~     (at your option) any later version.
+  ~
+  ~     AetasRaider is distributed in the hope that it will be useful,
+  ~     but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~     GNU General Public License for more details.
+  ~
+  ~     You should have received a copy of the GNU General Public License
+  ~     along with AetasRaider.  If not, see <http://www.gnu.org/licenses/>.
+  -->
+
+<component name="libraryTable">
+  <library name="runtimelib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/spring-web-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joda-time-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jdom-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcl-over-slf4j-1.5.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-core-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-expression-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-context-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-asm-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-webmvc-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rome-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/urlrewritefilter-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-log4j12-1.5.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-beans-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.5.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.springframework.orm-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.springframework.transaction-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.springframework.aop-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.springframework.jdbc-3.0.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../lib/spring-framework-3.0.0.RELEASE/src/org.springframework.instrument.tomcat-sources-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/spring-framework-3.0.0.RELEASE/src/org.springframework.transaction-sources-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/spring-framework-3.0.0.RELEASE/src/org.springframework.context.support-sources-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/spring-framework-3.0.0.RELEASE/src/org.springframework.asm-sources-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/spring-framework-3.0.0.RELEASE/src/org.springframework.expression-sources-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/spring-framework-3.0.0.RELEASE/src/org.springframework.aop-sources-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/spring-framework-3.0.0.RELEASE/src/org.springframework.instrument-sources-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/spring-framework-3.0.0.RELEASE/src/org.springframework.aspects-sources-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/spring-framework-3.0.0.RELEASE/src/org.springframework.web.struts-sources-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/spring-framework-3.0.0.RELEASE/src/org.springframework.core-sources-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/spring-framework-3.0.0.RELEASE/src/org.springframework.orm-sources-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/spring-framework-3.0.0.RELEASE/src/org.springframework.web.portlet-sources-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/spring-framework-3.0.0.RELEASE/src/org.springframework.context-sources-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/spring-framework-3.0.0.RELEASE/src/org.springframework.oxm-sources-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/spring-framework-3.0.0.RELEASE/src/org.springframework.web-sources-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/spring-framework-3.0.0.RELEASE/src/org.springframework.beans-sources-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/spring-framework-3.0.0.RELEASE/src/org.springframework.jms-sources-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/spring-framework-3.0.0.RELEASE/src/org.springframework.jdbc-sources-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/spring-framework-3.0.0.RELEASE/src/org.springframework.web.servlet-sources-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/spring-framework-3.0.0.RELEASE/src/org.springframework.test-sources-3.0.0.RELEASE.jar!/" />
+    </SOURCES>
+  </library>
+</component>
