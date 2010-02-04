@@ -51,4 +51,13 @@ public class LocalFileResourceProvider implements ResourceProvider {
             throw new RuntimeException(e);
         }
     }
+
+    @Override
+    public InputStream getArmoryItemInfoXml(int itemId) {
+        try {
+            return new File("src/test/resources/armory-iteminfo.xml").toURI().toURL().openStream();
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
+    }
 }

@@ -23,6 +23,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
+import javax.persistence.Query;
 import java.util.UUID;
 
 /**
@@ -67,5 +68,13 @@ public abstract class GenericJpaDao<T extends PersistentObject> implements Gener
     @Override
     public T find(String id) {
         return em.find(getPersistentClass(), id);
+    }
+
+    protected Query createQuery(String query) {
+        return em.createQuery(query);
+    }
+
+    protected EntityManager getEntityManager() {
+        return em;
     }
 }

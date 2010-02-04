@@ -33,4 +33,6 @@ public interface ResourceProvider {
     InputStream getXmlGuildInfoInputStream();
 
     URL createCharFeedUrl(WowCharacter wowCharacter);
+
+    InputStream getArmoryItemInfoXml(int itemId);
 }

@@ -17,8 +17,8 @@
 
 package org.aetas.service;
 
-import org.aetas.dao.CharacterActivityDao;
 import org.aetas.dao.CharacterDao;
+import org.aetas.dao.activity.CharacterActivityDao;
 import org.aetas.feedprocessors.CharacterActivityFeedParser;
 import org.aetas.feedprocessors.GuildInfoFeedParser;
 import org.aetas.model.WowCharacter;

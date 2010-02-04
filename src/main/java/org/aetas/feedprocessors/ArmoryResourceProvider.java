@@ -18,6 +18,7 @@
 package org.aetas.feedprocessors;
 
 import org.aetas.model.WowCharacter;
+import org.springframework.util.Assert;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -37,16 +38,10 @@ import java.net.URLEncoder;
 public class ArmoryResourceProvider implements ResourceProvider {
     @Override
     public InputStream getXmlGuildInfoInputStream() {
-        try {
-            URL guildInfoUrl = new URL("http://eu.wowarmory.com/guild-info.xml?r=The+Venture+Co&gn=Mayhem");
-            HttpURLConnection urlConn = (HttpURLConnection) guildInfoUrl.openConnection();
-            urlConn.setRequestProperty("User-agent", "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.2) Gecko/20070219 Firefox/2.0.0.2");
-            urlConn.connect();
-            return urlConn.getInputStream();
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        }
+        String url = "http://eu.wowarmory.com/guild-info.xml?r=The+Venture+Co&gn=Mayhem";
+        return getArmoryXml(url);
     }
+
 
     public URL createCharFeedUrl(WowCharacter wowCharacter) {
         try {
@@ -60,5 +55,24 @@ public class ArmoryResourceProvider implements ResourceProvider {
         }
 
 
+    }
+
+    @Override
+    public InputStream getArmoryItemInfoXml(int itemId) {
+        Assert.isTrue(itemId > 0, "itemId was 0 or less");
+        return getArmoryXml("http://eu.wowarmory.com/item-info.xml?i=" + itemId);
+    }
+
+    private InputStream getArmoryXml(String url) {
+        try {
+
+            URL guildInfoUrl = new URL(url);
+            HttpURLConnection urlConn = (HttpURLConnection) guildInfoUrl.openConnection();
+            urlConn.setRequestProperty("User-agent", "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.2) Gecko/20070219 Firefox/2.0.0.2");
+            urlConn.connect();
+            return urlConn.getInputStream();
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
     }
 }

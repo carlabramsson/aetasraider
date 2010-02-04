@@ -17,10 +17,10 @@
 
 package org.aetas.service;
 
-import org.aetas.dao.CharacterActivityDao;
 import org.aetas.dao.CharacterDao;
+import org.aetas.dao.activity.*;
+import org.aetas.model.InstanceArea;
 import org.aetas.model.WowCharacter;
-import org.aetas.model.activity.CharacterActivity;
 import org.aetas.model.activity.CharacterBossKillActivity;
 import org.aetas.model.activity.CharacterLootActivity;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -42,7 +42,17 @@ public class CharacterService {
     private CharacterDao characterDao;
 
     @Autowired
-    private CharacterActivityDao characterActivityDao;
+    private CharacterAchiActivityDao characterAchiActivityDao;
+    @Autowired
+    private CharacterAchiStepActivityDao characterAchiStepActivityDao;
+    @Autowired
+    private CharacterBossKillActivityDao characterBossKillActivityDao;
+    @Autowired
+    private CharacterInstanceClearedActivityDao characterInstanceClearedActivityDao;
+    @Autowired
+    private CharacterLootActivityDao characterLootActivityDao;
+    @Autowired
+    private UnknownCharacterActivityDao unknownCharacterActivityDao;
 
 
     public List<WowCharacter> getAllWowCharacters() {
@@ -58,19 +68,24 @@ public class CharacterService {
         return characterDao.find(id);
     }
 
-    public List<CharacterActivity> findAllCharacterActivity(WowCharacter wowCharacter) {
-        return characterActivityDao.findAllCharacterActivities(wowCharacter);
-    }
 
     public List<CharacterLootActivity> findAllCharacterLootActivity(WowCharacter wowCharacter) {
-        return characterActivityDao.findAllCharacterLootActivities(wowCharacter);
+        return characterLootActivityDao.findAll(wowCharacter);
     }
 
     public List<CharacterBossKillActivity> findAllCharacterBossKillActivities(WowCharacter wowCharacter) {
-        return characterActivityDao.findAllCharacterBossKillActivity(wowCharacter);
+        return characterBossKillActivityDao.findAll(wowCharacter);
     }
 
     public List<CharacterBossKillActivity> findRecentCharacterBossKillActivities(int max) {
-        return characterActivityDao.findRecentCharacterBossKillActivities(max);
+        return characterBossKillActivityDao.findRecent(max);
+    }
+
+    public List<CharacterLootActivity> findRecentCharacterLootActivities(int max) {
+        return characterLootActivityDao.findRecent(max);
+    }
+
+    public List<CharacterBossKillActivity> findCharacterBossKillActivities(InstanceArea instanceArea) {
+        return characterBossKillActivityDao.findKillsByInstance(instanceArea);
     }
 }

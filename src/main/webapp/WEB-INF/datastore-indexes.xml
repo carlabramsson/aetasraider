@@ -34,6 +34,10 @@
         <property name="wowCharacterId" direction="asc"/>
         <property name="date" direction="desc"/>
     </datastore-index>
+    <datastore-index kind="CharacterBossKillActivity" ancestor="false" source="auto">
+        <property name="instanceName" direction="asc"/>
+        <property name="date" direction="asc"/>
+    </datastore-index>
     <datastore-index kind="CharacterInstanceClearedActivity" ancestor="false" source="manual">
         <property name="wowCharacterId" direction="asc"/>
         <property name="date" direction="desc"/>

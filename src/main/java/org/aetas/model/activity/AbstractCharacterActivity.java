@@ -28,5 +28,10 @@ import org.aetas.model.PersistentObject;
  */
 public abstract class AbstractCharacterActivity implements CharacterActivity, PersistentObject {
 
-
+    @Override
+    public int compareTo(CharacterActivity o) {
+        if (o.equals(this))
+            return 0;
+        return getDate().compareTo(o.getDate());
+    }
 }

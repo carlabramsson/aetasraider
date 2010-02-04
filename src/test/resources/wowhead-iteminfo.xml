@@ -1,0 +1,18 @@
+<wowhead>
+    <item id="45868">
+        <name><![CDATA[Aesir's Edge]]></name>
+        <level>232</level>
+        <quality id="4">Epic</quality>
+        <class id="2"><![CDATA[Weapons]]></class>
+        <subclass id="8"><![CDATA[Two-Handed Swords]]></subclass>
+        <icon displayId="59364">INV_Sword_136</icon>
+        <inventorySlot id="17">Two-Hand</inventorySlot>
+        <htmlTooltip>
+            <![CDATA[><table><tr><td><b class="q4">Aesir's Edge</b><br /><!--bo-->Binds when picked up<table width="100%"><tr><td>Two-Hand</td><th>Sword</th></tr></table><table width="100%"><tr><td><span>670 - 1005 Damage</span></td><th>Speed 3.60</th></tr></table>(232.6 damage per second)<br />+113 Strength<br />+141 Stamina<!--e--><br /><a href="http://www.wowhead.com/?items&amp;filter=cr=81;crs=2;crv=0" class="socket-red q0">Red Socket</a><br /><a href="http://www.wowhead.com/?items&amp;filter=cr=81;crs=4;crv=0" class="socket-blue q0">Blue Socket</a><!--ps--><br /><!--sb--><span class="q0">Socket Bonus: +6 Strength</span><br />Durability 120 / 120<br />Requires Level 80<br />Item Level 232</td></tr></table><table><tr><td><span class="q2">Equip: Improves critical strike rating by <!--rtg32-->81&nbsp;<small>(<!--rtg%32-->1.76%&nbsp;@&nbsp;L<!--lvl-->80)</small>.</span><br /><span class="q2">Equip: Increases your armor penetration rating by <!--rtg44-->64&nbsp;<small>(<!--rtg%44-->4.57%&nbsp;@&nbsp;L<!--lvl-->80)</small>.</span><br />Sell Price: <span class="moneygold">28</span> <span class="moneysilver">44</span> <span class="moneycopper">41</span></td></tr></table><!--?45868:1:80:80-->]]></htmlTooltip>
+        <json>
+            <![CDATA[id:45868,name:'3Aesir\'s Edge',level:232,reqlevel:80,dps:232.6,speed:3.60,slot:17,source:[2],sourcemore:[{t:1,ti:33293,n:'XT-002 Deconstructor',z:4273,dd:1}],classs:2,subclass:8,displayid:59364,slotbak:17]]></json>
+        <jsonEquip>
+            <![CDATA[slotbak:17,displayid:59364,reqlevel:80,dmgmin1:670,dmgmax1:1005,dmgtype1:0,speed:3.60,socket1:2,socket2:8,socketbonus:3357,critstrkrtng:81,armorpenrtng:64,str:113,sta:141,dura:120,dps:232.6,sellprice:284441,nsockets:2,mledps:232.6,mledmgmin:670,mledmgmax:1005,mlespeed:3.60]]></jsonEquip>
+        <link>http://www.wowhead.com/?item=45868</link>
+    </item>
+</wowhead>

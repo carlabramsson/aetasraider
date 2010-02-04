@@ -28,7 +28,7 @@ import java.util.Date;
  * Time: 13:53:39
  * To change this template use File | Settings | File Templates.
  */
-public interface CharacterActivity extends PersistentObject {
+public interface CharacterActivity extends PersistentObject, Comparable<CharacterActivity> {
     Date getDate();
 
     void setDate(Date date);

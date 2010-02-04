@@ -15,29 +15,25 @@
  *     along with AetasRaider.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package org.aetas.dao;
+package org.aetas.dao.jpa.activity;
 
-import org.aetas.model.WowCharacter;
-import org.aetas.model.activity.CharacterActivity;
-import org.aetas.model.activity.CharacterBossKillActivity;
-import org.aetas.model.activity.CharacterLootActivity;
-
-import java.util.List;
+import org.aetas.dao.activity.CharacterAchiStepActivityDao;
+import org.aetas.model.activity.CharacterAchiStepActivity;
+import org.springframework.stereotype.Repository;
 
 /**
  * Created by IntelliJ IDEA.
  * User: carlabramsson
- * Date: 2010-jan-30
- * Time: 18:04:01
+ * Date: 2010-feb-04
+ * Time: 13:08:55
  * To change this template use File | Settings | File Templates.
  */
-public interface CharacterActivityDao extends GenericDao<CharacterActivity> {
+@Repository
+public class CharacterAchiStepActivityJPADao extends GenericCharacterActivityJpaDao<CharacterAchiStepActivity>
+        implements CharacterAchiStepActivityDao {
 
-    public List<CharacterActivity> findAllCharacterActivities(WowCharacter wowCharacter);
-
-    public List<CharacterLootActivity> findAllCharacterLootActivities(WowCharacter wowCharacter);
-
-    public List<CharacterBossKillActivity> findAllCharacterBossKillActivity(WowCharacter wowCharacter);
-
-    List<CharacterBossKillActivity> findRecentCharacterBossKillActivities(int max);
+    @Override
+    protected Class<CharacterAchiStepActivity> getPersistentClass() {
+        return CharacterAchiStepActivity.class;
+    }
 }

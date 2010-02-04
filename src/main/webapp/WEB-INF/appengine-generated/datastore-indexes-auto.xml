@@ -1,0 +1,11 @@
+<!-- Indices written at Thu, 4 Feb 2010 17:22:32 UTC -->
+
+<datastore-indexes>
+
+    <!-- Used 1 time in query history -->
+    <datastore-index kind="CharacterBossKillActivity" ancestor="false" source="auto">
+        <property name="instanceName" direction="asc"/>
+        <property name="date" direction="asc"/>
+    </datastore-index>
+
+</datastore-indexes>
